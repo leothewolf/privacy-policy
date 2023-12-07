@@ -35,6 +35,8 @@ We value your trust in providing us your Personal Information, thus we are striv
 
 We do not collect any data from users unless provided us to by user or given permission to do so. If you do want the limited data we collect to be deleted, please contact us at our [support server](https://discord.gg/X7bZffdsQt). Please note that participation in servers using Cross Chat after your data is deleted will still be recorded depending on the server settings.
 
+Incase, you stop using Cross Chat and want to do complete message deletion from all servers within network you were using, feel free to contact us our [support server](https://discord.gg/X7bZffdsQt).
+
 
 ## Changes to This Privacy Policy
 

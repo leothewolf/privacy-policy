@@ -27,6 +27,7 @@ We may collect additional information when participating in servers with certain
     + `character prompt` : prompt to define character given using character argument
     + `character username` : username of character to display using webhook
     + `character image` : profile image URL for webhook
+    + `message content` : last 100 prompts are stored to give you more accurate answers
 
 
 ## Security

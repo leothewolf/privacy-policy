@@ -27,7 +27,7 @@ We may collect additional information when participating in servers with certain
     + `character prompt` : prompt to define character given using character argument
     + `character username` : username of character to display using webhook
     + `character image` : profile image URL for webhook
-    + `message content` : last 100 prompts are stored to give you more accurate answers
+    + `message content` : last 100 prompts/user are stored to give precise answers
 
 
 ## Security
@@ -38,6 +38,8 @@ We value your trust in providing us your Personal Information, thus we are striv
 ## Data Deletion
 
 We do not collect any data from users unless provided us to by user or given permission to do so. If you do want the limited data we collect to be deleted, please contact us at our [support server](https://discord.gg/jAT8k2asTG). Please note that participation in servers using Gemini after your data is deleted will still be recorded depending on the server settings.
+
+Last 100 prompts/user are stored to give precise answers which can be deleted using `!prefix purge` command. Incase, there is any issue or you want us to delete from all characters at once, contact us at [support server](https://discord.gg/jAT8k2asTG).
 
 
 ## Changes to This Privacy Policy

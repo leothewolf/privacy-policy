@@ -29,6 +29,9 @@ We may collect additional information when participating in servers with certain
     + `character image` : profile image URL for webhook
     + `message content` : last 100 prompts/user are stored to give precise answers
 
+<br>
+ 
++ `Harmful Message Protection System` : No data is stored while you use Harmful Message Protection system
 
 ## Security
 
